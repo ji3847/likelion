@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: #095110;
+    
+ }
+ @font-face {
+    font-family: 'Y_Spotlight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/Y_Spotlight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+ul{
+display:grid;
+grid-template-columns: 200px;
+width: 200px;
+height: 100px;
+row-gap: 10px;
+text-align: center;
+
+}
+
+
+li{list-style-type: none;
+    color: white;
+    
+    width: 400px;
+    height: 300px;
+    border: 15px;
+    margin: 0 auto;
+    justify-content: center;
+    position: relative;
+    top:20px;
+    left: 450px;
+    font-family: 'Y_Spotlight';
+    z-index: 1;
+    }
+
+.bye{ color: #9346DA;}
+    
+}
+.intro {font-family: 'Y_Spotlight';
+    color: #FFC300;
+   }
+
+
+}
+embed 
+}
+#arctic {
+    position: relative;
+right: 00px;
+   
+}
